@@ -105,4 +105,4 @@ See [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## Code of conduct
 
-See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
+See [CODE-OF-CONDUCT](.github/CODE_OF_CONDUCT.md)
